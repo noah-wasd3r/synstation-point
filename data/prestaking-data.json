@@ -1,0 +1,2030 @@
+{
+  "data": {
+    "userPreStakings": {
+      "items": [
+        {
+          "accumulatedPoints": "388343958333333333331408818",
+          "userId": "0x02eE9cdaFa7037aa58cBA48c757F88d5eDa73980",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737112908"
+        },
+        {
+          "accumulatedPoints": "298687499999999999999980884",
+          "userId": "0x042b1A7aB3253320ED833E746126a92dEBCd3d50",
+          "pointPerSecond": "7523148148148148148148",
+          "lastTimestamp": "1729857120"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x06AA0B7Ca7B2Fa191600531aDC5B48aab7b90B16",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729670448"
+        },
+        {
+          "accumulatedPoints": "190586511458333333333329069842",
+          "userId": "0x0738f2a25e59bB9178aCea620935Ef8895b71c3d",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737986562"
+        },
+        {
+          "accumulatedPoints": "79586805555555555555458778",
+          "userId": "0x08b35d6cffFF52e3D619140Ad88ED43d9C6e66D8",
+          "pointPerSecond": "6365740740740740740740",
+          "lastTimestamp": "1729815876"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x0B7fdc8b8550615f3b6f7F407d3532EA2EC7a82C",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733128332"
+        },
+        {
+          "accumulatedPoints": "16565815972222222222221340872",
+          "userId": "0x0C0edF4eD612537e350777ED97255572627b6f76",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737116904"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x0C719bd59302e981492CB3fb813f0324BBFa7af8",
+          "pointPerSecond": "173611111111111111111",
+          "lastTimestamp": "1731496050"
+        },
+        {
+          "accumulatedPoints": "69444444444444444444444",
+          "userId": "0x0D8d78700E23E82b280f57Db10c26b2fF51Cd8cD",
+          "pointPerSecond": "17361111111111111111111",
+          "lastTimestamp": "1729871532"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x0DC99550aCC01f97dB95ACA0B1A95b10b6c36C99",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1729717686"
+        },
+        {
+          "accumulatedPoints": "9243749999999999999940840",
+          "userId": "0x0F6f2E6b72291FcFd65e6ad8B356B41137b11E69",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729756986"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x0FC7e42C64858053Dc845D371ce82Bb415EDfB2D",
+          "pointPerSecond": "2893518518518518518518",
+          "lastTimestamp": "1729699080"
+        },
+        {
+          "accumulatedPoints": "601624999999999999999788228",
+          "userId": "0x0a4aB49Cb3a71263BB3881799f50c32Af0Dba651",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1730247132"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x0c30D634e081eE1a66b51aA8066F9cE254a102a0",
+          "pointPerSecond": "289351851851851851851",
+          "lastTimestamp": "1734906576"
+        },
+        {
+          "accumulatedPoints": "1022711215930944444444439954752",
+          "userId": "0x1029Cc5980b2adFeb2Dc2e1923c2C3ff173299A6",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737030635"
+        },
+        {
+          "accumulatedPoints": "5461111111111111111076160",
+          "userId": "0x11e0185434b499cAc2cf77e0c3A96d6fC9578C14",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729786368"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1388008810B3458a9aFAB46a678b1ed3992fCc70",
+          "pointPerSecond": "3046476533050871875000",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x14D7DCFA4678964d4816BEC2b3E891D28eC022CC",
+          "pointPerSecond": "28935185185185185185",
+          "lastTimestamp": "1729794804"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1506A8f8125D84069686d438a9518242c0dC78C9",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729738692"
+        },
+        {
+          "accumulatedPoints": "694444444444444444440",
+          "userId": "0x155C03a413c41c824Cbf7667E26d8011539ffE53",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1729655412"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1757918b3D6BeBf21dCC88705009aE8859Ac3CBb",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730395164"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x186EDaB299F5b99c90843307ed39BbA2d2dFD45F",
+          "pointPerSecond": "28935185185185185185185",
+          "lastTimestamp": "1734618120"
+        },
+        {
+          "accumulatedPoints": "38842465277777777777777535354",
+          "userId": "0x189e248fce7Fe7A58ADa168dabe42A2c483077E0",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733341416"
+        },
+        {
+          "accumulatedPoints": "23979596527777777777774585266",
+          "userId": "0x196862F31Cd635FEaa3a19d9344C6e1Aa1b7191E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733822454"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1Eb18844ab577B5ad6FF35D1B6412839a4dCdf31",
+          "pointPerSecond": "3472222222222222222222",
+          "lastTimestamp": "1729882404"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1F03Ba4e360071e2C1f510B2e9139Ee6cF0B6477",
+          "pointPerSecond": "578703703703703703",
+          "lastTimestamp": "1731155040"
+        },
+        {
+          "accumulatedPoints": "39424753819444444444441696422",
+          "userId": "0x1Fa4Feb6364C190cA8a340C3Af40862330d65ECD",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737259422"
+        },
+        {
+          "accumulatedPoints": "84013281249999999999997849260",
+          "userId": "0x1a0bE9f7Dfab92085EDCd09c8116265790113384",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736545830"
+        },
+        {
+          "accumulatedPoints": "13122326388888888888888804906",
+          "userId": "0x1aB89De00F039d9De0E17cd1F1A5E7372C475aC3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733834712"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x1b6F921D37953E321472Dd7530C4171a59A10142",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1733313264"
+        },
+        {
+          "accumulatedPoints": "166666666666666666666644",
+          "userId": "0x1e6fc9F65bb92A8D6e66f93fc6c1E9bCe9D01244",
+          "pointPerSecond": "5034722222222222222222",
+          "lastTimestamp": "1732460976"
+        },
+        {
+          "accumulatedPoints": "19554340277777777777777652630",
+          "userId": "0x20045E3e280eB57DF5f860A118239447182E334b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736587854"
+        },
+        {
+          "accumulatedPoints": "29088541666666666666480500",
+          "userId": "0x22e6082f4578c71c8DD0ab1973729dD8B49b9a6B",
+          "pointPerSecond": "6452546296296296296296",
+          "lastTimestamp": "1730057760"
+        },
+        {
+          "accumulatedPoints": "3470809513888888888888886447880",
+          "userId": "0x23dB013D1f68aDA4985630feF4dF92050c6B9cC2",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736519946"
+        },
+        {
+          "accumulatedPoints": "174431319791666666666665053384",
+          "userId": "0x253104C23F8acb8aB93bD0fA0783d24496200f7B",
+          "pointPerSecond": "110995370370370370370370",
+          "lastTimestamp": "1733486748"
+        },
+        {
+          "accumulatedPoints": "94346351388888888888886613262",
+          "userId": "0x255b7a2db64641C28B97E3175aFFA3fE99744F55",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734359136"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x25c01F144472186c557F895D27E28eeE341F80b2",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729680222"
+        },
+        {
+          "accumulatedPoints": "10966111111111111111111040928",
+          "userId": "0x2627c39DaBac510F47f2A692225e70C9B6249276",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1732021662"
+        },
+        {
+          "accumulatedPoints": "8741837481667708333333331119200",
+          "userId": "0x2674fD486c1C404D20c7cB4685C406b14d383a2b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736929199"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x27Bb0792730720e2c2Ec7B5779c45AF6fd6F75f0",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729708284"
+        },
+        {
+          "accumulatedPoints": "7269252580375063181205770520",
+          "userId": "0x2890E1fd49F5e2EAb88262a6C54F2466465Fa739",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736700444"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x2A90c8BA96D0f0FC8e869C36017Ce094097fb261",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729658208"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x2E4a9631e77247A8Bdc93F6F03d42fB5f9BAdF4e",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729714986"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x2d1d874E4d3369b500bf2aAD0083Cd85E83FB8f9",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1731506334"
+        },
+        {
+          "accumulatedPoints": "1940395833333333333333329929632",
+          "userId": "0x2d1d874E4d3369b500bf2aAD0083Cd85E83FB8f9",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1738346268"
+        },
+        {
+          "accumulatedPoints": "25895138888888888888723160",
+          "userId": "0x2e1183b6c81068eB13B26Bf281908E4e5755F9bB",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730155608"
+        },
+        {
+          "accumulatedPoints": "21851252291666666666666526804",
+          "userId": "0x2efA30d93081b156bC7d8b6c06fD47DF47Ed9c48",
+          "pointPerSecond": "11574074074074074074074",
+          "lastTimestamp": "1733572872"
+        },
+        {
+          "accumulatedPoints": "23080923958333333333333157286",
+          "userId": "0x30345574FE6632f2fB7b6aB0d0EA395ae43a8811",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733833062"
+        },
+        {
+          "accumulatedPoints": "12100694444444444444367000",
+          "userId": "0x31d0e99CAd9F8C9088C2C749342C13b8CecC8829",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729751892"
+        },
+        {
+          "accumulatedPoints": "5845138888888888888851480",
+          "userId": "0x32209Be8f619DC5D7C321C1E3edd5C00d3Db2184",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1729789476"
+        },
+        {
+          "accumulatedPoints": "31394305763888888888886340716",
+          "userId": "0x33987255079C7Af8Da1c6c95e1dBf6c3d175163d",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734594900"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x361215E09be6932404268cB2314203Be9aA1ffE9",
+          "pointPerSecond": "5208333333333333333333",
+          "lastTimestamp": "1737531720"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x37641cd7E812D72De5db3B506e2e3969555B0690",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729660176"
+        },
+        {
+          "accumulatedPoints": "4793611111111111111110888372",
+          "userId": "0x37dd1a4BcE8C745AA745602Fe6DcFC5ad744fBBD",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733649588"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x38e85b42262f1C78A07AF7bB24693F2684B4e20D",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1731815742"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x390B2F81e55597700a02a44de3808699d3498E46",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730378736"
+        },
+        {
+          "accumulatedPoints": "24846133333333333333330334184",
+          "userId": "0x393b5505807dCe9f57ED9e285317e15fF0C622A9",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733790336"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3B0c4A0C4546E155e14DE9E37624515b6B86d613",
+          "pointPerSecond": "63688141595440805649594",
+          "lastTimestamp": "1735040262"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3DC7634072998c6dF8AB0A38b1Ca0807b57c4EFd",
+          "pointPerSecond": "57870370370370370",
+          "lastTimestamp": "1730155680"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3EA41fbF5Bf237e1C2167b39a3dAE5D5CD199131",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1737642312"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3F7D3d55644E897EA2413F1d951ccb1dFB2316dB",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1735137786"
+        },
+        {
+          "accumulatedPoints": "31396631944444444444444243506",
+          "userId": "0x3a9EEcE65e993c3637D2ED8E15643e3679056773",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735468452"
+        },
+        {
+          "accumulatedPoints": "64095833333333333332923120",
+          "userId": "0x3cdb13231Ee30e4aB48DabEb36A3DEf0e5A830fA",
+          "pointPerSecond": "6886574074074074074074",
+          "lastTimestamp": "1730270484"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3d6904B475152312e2F3d8E4916164840AC3dDB8",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730760516"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x3f769C3666342F642B0fB3De045eA57b2709cc6b",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729744404"
+        },
+        {
+          "accumulatedPoints": "14973279305555555555554142058",
+          "userId": "0x40bC680b605c6A9824860ABB101e482A8131e108",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733766270"
+        },
+        {
+          "accumulatedPoints": "23438194444444444444294440",
+          "userId": "0x4164eccc31D2D8dF3f0551fa1d11150a1170BC55",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729861458"
+        },
+        {
+          "accumulatedPoints": "4861111111111111111080",
+          "userId": "0x4172b1eBA109b4FA343563E28Fc61dE2D1BE6EC6",
+          "pointPerSecond": "578703703703703703703",
+          "lastTimestamp": "1736256384"
+        },
+        {
+          "accumulatedPoints": "30611041666666666666666470756",
+          "userId": "0x456fd876493aC6065549c8CfF0882aCE5f935CBC",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734846108"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x46931a27aDa075495CB0A2EB21Bd004a330D4A72",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1734720402"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x48dDB734a7aCa3B9746EEB371CccAd06429d8508",
+          "pointPerSecond": "63657407407407407407",
+          "lastTimestamp": "1729662132"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x492b30e7B576aC749F2A398BC31F08d8436Ba504",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730951766"
+        },
+        {
+          "accumulatedPoints": "14210416666666666666575720",
+          "userId": "0x496123e027E71972FC524435B0aBc742980C2A72",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729944420"
+        },
+        {
+          "accumulatedPoints": "4193402777777777777750940",
+          "userId": "0x49838aA6c98260aa1738fbef639f9793333a5B60",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729763034"
+        },
+        {
+          "accumulatedPoints": "4400694444444444444416280",
+          "userId": "0x49D522712D2786b56680Cc69f5B5b4d4f541b0A4",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729775964"
+        },
+        {
+          "accumulatedPoints": "5989587535397692600827294892932",
+          "userId": "0x4B207c3Fc4FfC9f88C922aF3FD2a7D655D06b7EA",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736944187"
+        },
+        {
+          "accumulatedPoints": "17406944444444444444333040",
+          "userId": "0x4BEa333C61F3a1381B2C854Af53A13f1a36A7BC3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729919628"
+        },
+        {
+          "accumulatedPoints": "42757287499999999999996882560",
+          "userId": "0x4F15F0772840C9E9093EC26Dbd107B77d371526D",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737375048"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x4FB6B826bbd269FEC5eF744133FdB48AeE909b11",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729840692"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x4FddD3ABCAf4eEE299D2CB877A1Cb026627066F5",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730954292"
+        },
+        {
+          "accumulatedPoints": "41494733333333333333330421234",
+          "userId": "0x4b5788F50E44e593C7Bd92eB66fa59600bAA9432",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736853732"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x4cf5B5a74816A61f1c603261c2bc748A3Ddd3D94",
+          "pointPerSecond": "28935185185185185185185",
+          "lastTimestamp": "1734469355"
+        },
+        {
+          "accumulatedPoints": "581207465277777777777776343642",
+          "userId": "0x4d7858c816bcd4EcCfdcfb1809CbE9bB8D0A8Bf7",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736507742"
+        },
+        {
+          "accumulatedPoints": "18701731597222222222220918634",
+          "userId": "0x4f4335F5eD85E2bA67e93239755dA2884E3c41cE",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733072526"
+        },
+        {
+          "accumulatedPoints": "147819444444444444444442476672",
+          "userId": "0x4f4335F5eD85E2bA67e93239755dA2884E3c41cE",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735199184"
+        },
+        {
+          "accumulatedPoints": "55543645833333333333332977854",
+          "userId": "0x502230Aa5268bD75D893F888d4aE06533a2e1377",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736504214"
+        },
+        {
+          "accumulatedPoints": "10550993055555555555542184",
+          "userId": "0x506e211e2597e7697309A532cB6227a0b559032B",
+          "pointPerSecond": "5845486111111111111111",
+          "lastTimestamp": "1729856676"
+        },
+        {
+          "accumulatedPoints": "138888888888888888888888",
+          "userId": "0x51F51EB0df06b41C9F9454dc2a50bdB34E18afcB",
+          "pointPerSecond": "23148148148148148148148",
+          "lastTimestamp": "1733412510"
+        },
+        {
+          "accumulatedPoints": "6368749999999999999959240",
+          "userId": "0x5275853270FD217F5821F96B0606a73612395D3d",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729773288"
+        },
+        {
+          "accumulatedPoints": "3767796180555555555555337350",
+          "userId": "0x52A04f8D6e05126d37Cc39fE6513B7B7880219BF",
+          "pointPerSecond": "18055555555555555555555",
+          "lastTimestamp": "1730677026"
+        },
+        {
+          "accumulatedPoints": "69444444444444444444420",
+          "userId": "0x52ED29759D20EEA0625735721C86103eb1aeEA3d",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737561336"
+        },
+        {
+          "accumulatedPoints": "8161111111111111111058880",
+          "userId": "0x52bB4d1121Ba28E7CAC4B3c994ccbFe8eD1174FB",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729761588"
+        },
+        {
+          "accumulatedPoints": "8871527777777777777777256",
+          "userId": "0x5308e667B14013d56552dc4122893C4e04F59756",
+          "pointPerSecond": "118634259259259259259259",
+          "lastTimestamp": "1736382126"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x54e917896C2a7Bd38243De99C75Aecd702Bc1106",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729676508"
+        },
+        {
+          "accumulatedPoints": "10908333333333333333263520",
+          "userId": "0x55160f890eCc8cbA925029e1d70e64cB9ca1e25D",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729807440"
+        },
+        {
+          "accumulatedPoints": "9147916666666666666608120",
+          "userId": "0x5602680c4a81dC99c0148eF8DE043a8073e8530f",
+          "pointPerSecond": "173611111111111111111",
+          "lastTimestamp": "1729770192"
+        },
+        {
+          "accumulatedPoints": "69748611111111111111109254072",
+          "userId": "0x57696a563B66dFA0c180747217d0EdCF17A9cD51",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736092080"
+        },
+        {
+          "accumulatedPoints": "25232638888888888888814604",
+          "userId": "0x57D3Ca64F4745B1936E34B3296238246895AECf3",
+          "pointPerSecond": "6307870370370370370370",
+          "lastTimestamp": "1729766388"
+        },
+        {
+          "accumulatedPoints": "2708440972222222222221603150",
+          "userId": "0x593851CA21Bfd716a9FC71c744e8b1CdF101535b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733222274"
+        },
+        {
+          "accumulatedPoints": "20226006944444444444444314998",
+          "userId": "0x593851CA21Bfd716a9FC71c744e8b1CdF101535b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736836086"
+        },
+        {
+          "accumulatedPoints": "455074652777777777776807176",
+          "userId": "0x5B78ace197872A4C90bb137D0643aA3755DBC1A0",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1731588192"
+        },
+        {
+          "accumulatedPoints": "111310761548914091238523716",
+          "userId": "0x5B78ace197872A4C90bb137D0643aA3755DBC1A0",
+          "pointPerSecond": "52790924491429041377",
+          "lastTimestamp": "1733471214"
+        },
+        {
+          "accumulatedPoints": "20442743055555555555555424722",
+          "userId": "0x5E340b4907365814B789eDD30E150601879C1104",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736872794"
+        },
+        {
+          "accumulatedPoints": "76405972222222222222219847088",
+          "userId": "0x5F2b3267Ae6e5ccB06aEf382Da2C57BB9D86c334",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737672168"
+        },
+        {
+          "accumulatedPoints": "37554820833333333333326816100",
+          "userId": "0x5a30c46A90cd2775d9e60EDcE2F339394038C74c",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1738140912"
+        },
+        {
+          "accumulatedPoints": "600937499999999999999996154",
+          "userId": "0x5a61dd9A663a868144660F5fB7Dc8dB68F0500Fb",
+          "pointPerSecond": "28935185185185185185185",
+          "lastTimestamp": "1729791444"
+        },
+        {
+          "accumulatedPoints": "920005972222222222222220334708",
+          "userId": "0x5d63e98EF88ba842eE5BFB434778fB375892d78F",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736653338"
+        },
+        {
+          "accumulatedPoints": "22111249999999999999999858488",
+          "userId": "0x5d63e98EF88ba842eE5BFB434778fB375892d78F",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736653386"
+        },
+        {
+          "accumulatedPoints": "2926736111111111111092380",
+          "userId": "0x5f3d6141B371e1D3FDA66171640374211024B6A0",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729756962"
+        },
+        {
+          "accumulatedPoints": "19734583333333333333333207032",
+          "userId": "0x6004A609e69aEA2E418Ed734acbE58f3d8C85cA8",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733878854"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x611670126eA6Da89bb7af788892E1715AdfFf9b3",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1736193288"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x61e1497a6d31b8761e8e274d7208348bD53b1AEa",
+          "pointPerSecond": "11574074074074074074",
+          "lastTimestamp": "1729742226"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x6204bfaE1D878630113EEc7aA3fE1Ce4C436961A",
+          "pointPerSecond": "6365740740740740740740",
+          "lastTimestamp": "1733670228"
+        },
+        {
+          "accumulatedPoints": "21769921875000000022575494154",
+          "userId": "0x6261823b37C6Fa374e991a16a8f74B8f756080C7",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737042576"
+        },
+        {
+          "accumulatedPoints": "9683333333333333333271864",
+          "userId": "0x63dbFf830913C20af0892c272E7852E66AeF4120",
+          "pointPerSecond": "231481481481481481481",
+          "lastTimestamp": "1729819056"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x6465e1dD2A93BD78112D6e5f90b1eBeEBC2d9765",
+          "pointPerSecond": "86805555555555555555",
+          "lastTimestamp": "1730544432"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x64739640e38F55e6Bf1e72a3B10405395F71FB45",
+          "pointPerSecond": "578703703703703703703",
+          "lastTimestamp": "1730333646"
+        },
+        {
+          "accumulatedPoints": "5551281944444444444443608180",
+          "userId": "0x6516DEDe38F2E0791FeFD07c2E550dF3C87E10eE",
+          "pointPerSecond": "8217592592592592592592",
+          "lastTimestamp": "1730747544"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x666D254B723cE08978EFA1715978767E23Df6126",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729700076"
+        },
+        {
+          "accumulatedPoints": "12785069444444444444362620",
+          "userId": "0x66cA2BDC506580F7AB8C21056Bad37c05a0AfdE7",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729897506"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x66fd829e0F047a96f27D3DCc44E0e01D4dd39794",
+          "pointPerSecond": "5787037037037037037",
+          "lastTimestamp": "1730050548"
+        },
+        {
+          "accumulatedPoints": "13148263888888888888804740",
+          "userId": "0x67DaC0bBD22Ab2821eA982ac0542f6c409cAFe3A",
+          "pointPerSecond": "11631944444444444444444",
+          "lastTimestamp": "1729881534"
+        },
+        {
+          "accumulatedPoints": "5181458333333333333300172",
+          "userId": "0x6825835255f1957c1d0B90CCDaB879CE62f1B6B3",
+          "pointPerSecond": "5908564814814814814814",
+          "lastTimestamp": "1729754508"
+        },
+        {
+          "accumulatedPoints": "694444444444444444440",
+          "userId": "0x698Cbc7C6e185D4aAB98950E51c471025802034a",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1729703664"
+        },
+        {
+          "accumulatedPoints": "11531944444444444444370640",
+          "userId": "0x6B85d7e2b29c94e51F002270C65eaCF7A23615A4",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729873236"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x6aC69296DE99236dA854603CB3EbFB84c28AF55c",
+          "pointPerSecond": "1517850210446109375000",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x6d882925377e9fA250FFd6b62164AB4084DBbCB7",
+          "pointPerSecond": "5787037037037037037",
+          "lastTimestamp": "1730560896"
+        },
+        {
+          "accumulatedPoints": "19963772222222222222220830688",
+          "userId": "0x6eD76abC8246Ed029C529a31a1dBF4dC2CB25246",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733216496"
+        },
+        {
+          "accumulatedPoints": "200734157986111111111110076080",
+          "userId": "0x6eD76abC8246Ed029C529a31a1dBF4dC2CB25246",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736634162"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x6f744b8BB88e9ec5E8A2678F9C57fe09CEcb9329",
+          "pointPerSecond": "28935185185185185185",
+          "lastTimestamp": "1729803504"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x70bd1e6b6B8140723Daf9e4D8af4E7A03507f2a3",
+          "pointPerSecond": "28935185185185185185",
+          "lastTimestamp": "1736192088"
+        },
+        {
+          "accumulatedPoints": "17000277777777777777777668976",
+          "userId": "0x715bF44b20fE6eE264838e178060D66733231370",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736180136"
+        },
+        {
+          "accumulatedPoints": "25525477083333333333331156500",
+          "userId": "0x715bF44b20fE6eE264838e178060D66733231370",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737107364"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x718e5b4F5B007bcEB7AD6Ce8C2629ceA767FC4EC",
+          "pointPerSecond": "3472222222222222222222",
+          "lastTimestamp": "1729461203"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x718e5b4F5B007bcEB7AD6Ce8C2629ceA767FC4EC",
+          "pointPerSecond": "17361111111111111111",
+          "lastTimestamp": "1735598316"
+        },
+        {
+          "accumulatedPoints": "5624999999999999999964000",
+          "userId": "0x71E78c7197EEE4Ab2A5C940477383B89bfB7C5Bd",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729764504"
+        },
+        {
+          "accumulatedPoints": "51736111111111111110780",
+          "userId": "0x71d8962ae1d7845312B3Fe24497f931d26caCc22",
+          "pointPerSecond": "5850694444444444444444",
+          "lastTimestamp": "1731661014"
+        },
+        {
+          "accumulatedPoints": "5593749999999999999964200",
+          "userId": "0x7282aB49b58C7c493F49F2d5D1a723BdEd47C420",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729754316"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x759AA5d004D3fdbafa980F1528991C95806DfDc2",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730382444"
+        },
+        {
+          "accumulatedPoints": "298293864583333333333332255744",
+          "userId": "0x75dAAE02FE35C114d32AD8e3B2555FE9798a64b0",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736256852"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x75dAAE02FE35C114d32AD8e3B2555FE9798a64b0",
+          "pointPerSecond": "57233796296296296296296",
+          "lastTimestamp": "1733878170"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x76E626227336dB53c7fa87FbeB43e283bD5d7ed9",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729701660"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x76e3e524df9e29863B06cd858bb1D8ed7F3dd8Ab",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729711560"
+        },
+        {
+          "accumulatedPoints": "42950127777777777777772061082",
+          "userId": "0x77366c28F88e4fADa3c28B213410E0021bc93378",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737240042"
+        },
+        {
+          "accumulatedPoints": "208333333333333333332",
+          "userId": "0x78C4914cd1aEf222010C37AC2Bd33F1510Aa4003",
+          "pointPerSecond": "11574074074074074074",
+          "lastTimestamp": "1731332112"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x78a8a6A4661d9384b42C7CF9411668a538969109",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729710984"
+        },
+        {
+          "accumulatedPoints": "13888888888888888888884",
+          "userId": "0x797008Aa5a6544C86ed064187c79Fcc349de43E2",
+          "pointPerSecond": "2314814814814814814814",
+          "lastTimestamp": "1729694424"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7A429127E8bdB1556b9f5EeaD86fa84E3a86C079",
+          "pointPerSecond": "12729166666666666666",
+          "lastTimestamp": "1729771223"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7B177325DC386A68AA155b47416eDAb27A20D684",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1733180964"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7B5529bB9992d9c8deF937eaA917ddB720d67827",
+          "pointPerSecond": "11574074074074074074",
+          "lastTimestamp": "1729671972"
+        },
+        {
+          "accumulatedPoints": "121039583333333333332558680",
+          "userId": "0x7Bba80E55FeD1812974Ea0dB50E58D3f82348c1b",
+          "pointPerSecond": "63657407407407407407",
+          "lastTimestamp": "1732120770"
+        },
+        {
+          "accumulatedPoints": "138888888888888888888",
+          "userId": "0x7Cff407F24BdCe4880afF35A11c9Daf73e86C62A",
+          "pointPerSecond": "17361111111111111111",
+          "lastTimestamp": "1730525340"
+        },
+        {
+          "accumulatedPoints": "34251874999999999999999780788",
+          "userId": "0x7D5Da64909eD78880f4019269e1bdc780d32d75d",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735301700"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7Dd91241BF3086ada00bc97F208dEA26Fbc6ffE2",
+          "pointPerSecond": "3182870370370370370370",
+          "lastTimestamp": "1735838736"
+        },
+        {
+          "accumulatedPoints": "598701803819444444444441816028",
+          "userId": "0x7E661ac52e2578d56EEEC231016c7B4DC0A73B75",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737643914"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7F2C67895Eeb9EB99f4d3F4ca7907E61fed738cc",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729734408"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7a09E2a465bC7a63CcB39Bd151e73B2c1D05550A",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1736611644"
+        },
+        {
+          "accumulatedPoints": "60838194444444444444444055080",
+          "userId": "0x7e6a6DeBBbb8A39474CbDd62997d21B73AF87d5b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737734892"
+        },
+        {
+          "accumulatedPoints": "160030347222222222222221198028",
+          "userId": "0x7e6a6DeBBbb8A39474CbDd62997d21B73AF87d5b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736616816"
+        },
+        {
+          "accumulatedPoints": "1559351006944444444444442325030",
+          "userId": "0x7fa2C5c22549fefb17062d6C2149D6365677cE16",
+          "pointPerSecond": "243055555555555555555555",
+          "lastTimestamp": "1736257596"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x7fa2C5c22549fefb17062d6C2149D6365677cE16",
+          "pointPerSecond": "5787037149424958802604",
+          "lastTimestamp": "1734009936"
+        },
+        {
+          "accumulatedPoints": "183357749500067797855722130944",
+          "userId": "0x808E3dE77975b9b050D4A7DcbfCE909E20fcF4B5",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734041711"
+        },
+        {
+          "accumulatedPoints": "8468749999999999999945800",
+          "userId": "0x8113B183CAe850ABCA8A3B1593eC1f1f73175dDC",
+          "pointPerSecond": "173611111111111111111",
+          "lastTimestamp": "1729820508"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8377Fd48c0519c92CB10dbE678C5f5087151968D",
+          "pointPerSecond": "36598159722222222222222",
+          "lastTimestamp": "1729221707"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x83EF19E7164F4983ec8b4Ac00031655D92B87172",
+          "pointPerSecond": "69444444444444444444",
+          "lastTimestamp": "1729740480"
+        },
+        {
+          "accumulatedPoints": "229860416666666666665195560",
+          "userId": "0x847A643AD8d71569329E8B133a68291696D9ac4B",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1731678852"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x860C7844Eb51B6b9a9D711E3FE3111448654d1D7",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1732194132"
+        },
+        {
+          "accumulatedPoints": "3873402777777777777777752988",
+          "userId": "0x873De45Cb8453144a8BC76c2916DD9c52a9Bdb34",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733823030"
+        },
+        {
+          "accumulatedPoints": "3087510416666666666665960950",
+          "userId": "0x874f1BcFf7BECb45C95f5582a7c5EC936f81684B",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733315784"
+        },
+        {
+          "accumulatedPoints": "18148784722222222222222106070",
+          "userId": "0x874f1BcFf7BECb45C95f5582a7c5EC936f81684B",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736872968"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x884108F0DCF10473732D549A48138fCdc68dbAd0",
+          "pointPerSecond": "3214699074074074074074074",
+          "lastTimestamp": "1734096192"
+        },
+        {
+          "accumulatedPoints": "21569333333333333333331952896",
+          "userId": "0x888C629949953E30a6fF3748E07225fdd78F043C",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736354808"
+        },
+        {
+          "accumulatedPoints": "783720449292761929772544771462",
+          "userId": "0x8943e1E8B5810Ab704C3035D96926dBd98404a51",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735030626"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8B223eE418fae4a7A3638b8d07Bb584AD3b68aEd",
+          "pointPerSecond": "289351851851851851851",
+          "lastTimestamp": "1738791600"
+        },
+        {
+          "accumulatedPoints": "183926962163386035893745162540",
+          "userId": "0x8C2755Cdcf38086d3001c39d5A1b876e9AD9bc75",
+          "pointPerSecond": "303920474573054689467592",
+          "lastTimestamp": "1730429243"
+        },
+        {
+          "accumulatedPoints": "5618402777777777777744484",
+          "userId": "0x8C587DB57d05C086177233D3BCB25a7739419c71",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729842720"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8D56326605aC74e11EAaCEFb7A5A718379fa6c3A",
+          "pointPerSecond": "5787037037037037037",
+          "lastTimestamp": "1731056220"
+        },
+        {
+          "accumulatedPoints": "386579332638888888887804520",
+          "userId": "0x8E2117ca8DEF42d993f19F0da659939375C201f1",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1732731864"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8E470b1f0dcEf55b2bf52D4011C7C26F0f92b7e0",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729773456"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8b9F8a0330C67DcceEc401A76df6506145c48A47",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1732907214"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x8baA37a1061177eE0D335fA8bfE8eF6dD7607d1e",
+          "pointPerSecond": "70891203703703703703703",
+          "lastTimestamp": "1733838762"
+        },
+        {
+          "accumulatedPoints": "41524756944444444444444178686",
+          "userId": "0x8cB1F920e437791A97443cC81b62476120D30e40",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736826828"
+        },
+        {
+          "accumulatedPoints": "8166458333333333333333331869904",
+          "userId": "0x8cB1F920e437791A97443cC81b62476120D30e40",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736826804"
+        },
+        {
+          "accumulatedPoints": "869236111111111111105548",
+          "userId": "0x8e20c1c3d830Ab6063b54e8C3cf89750D3D57bf6",
+          "pointPerSecond": "11574074074074074074",
+          "lastTimestamp": "1731312708"
+        },
+        {
+          "accumulatedPoints": "644085763888888888888886921706",
+          "userId": "0x8e5AEf578D6AeFc0be4eDB2bE5c300E8207e1fEf",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736660940"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x92b52e6441A9e2E03d080E951249d93dF222f855",
+          "pointPerSecond": "14467592592592592592592",
+          "lastTimestamp": "1729996908"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0x938f455Eee92269ef3A1e3c91deB0CfABffbcfb4",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730390058"
+        },
+        {
+          "accumulatedPoints": "51082567708333333333331677914",
+          "userId": "0x9578d086Eb51d07A7A236F2e7A46F11b00eEF4E4",
+          "pointPerSecond": "26388888888888888888888",
+          "lastTimestamp": "1733430672"
+        },
+        {
+          "accumulatedPoints": "1550417361111111111109961256",
+          "userId": "0x96E38316343078542214a7a685D0802f63ca756B",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737058254"
+        },
+        {
+          "accumulatedPoints": "19524492361111111111109750196",
+          "userId": "0x96E38316343078542214a7a685D0802f63ca756B",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736503716"
+        },
+        {
+          "accumulatedPoints": "1552236040681563301922178480",
+          "userId": "0x96E38316343078542214a7a685D0802f63ca756B",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737058302"
+        },
+        {
+          "accumulatedPoints": "41183670486111111111108146970",
+          "userId": "0x97219Ef57A528c1f28A07A8c028b13C25464AEA9",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736945562"
+        },
+        {
+          "accumulatedPoints": "20462083333333333333333202376",
+          "userId": "0x9726d0e8Bd180A2136110EeD2Eb56fFDE8C98C7D",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736872620"
+        },
+        {
+          "accumulatedPoints": "451388888888888888888886",
+          "userId": "0x983726952b1262E6DA526b58E00f00D2e4f24835",
+          "pointPerSecond": "11574074074074074074074",
+          "lastTimestamp": "1735418772"
+        },
+        {
+          "accumulatedPoints": "25898261805555555555555228438",
+          "userId": "0x998666B774bdf9B4447364FD4c5eE884d6F505A1",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735596072"
+        },
+        {
+          "accumulatedPoints": "23830245138888888888888736362",
+          "userId": "0x9997Df27cCAf065190B4695A50CD1832839b4538",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733918340"
+        },
+        {
+          "accumulatedPoints": "126610416666666666666585636",
+          "userId": "0x9cc8ECBD7d7a475a835f0956E70EB336a847d760",
+          "pointPerSecond": "520833333333333333333",
+          "lastTimestamp": "1730529072"
+        },
+        {
+          "accumulatedPoints": "39113827486512188761037808022536",
+          "userId": "0xA083345EB51A1Eaa908770ACEC8b005279637114",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737613343"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xA0b6d3482C9F984a2Ba790D7EE91c8565383CE6c",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730031738"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xA32b09d4F69bb3F2EAF81438657318607d00e1D1",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1731690462"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xA4E56D89Ccf3aA9317Aa2E7559f0FC6Ab3400396",
+          "pointPerSecond": "6076388888888888888888",
+          "lastTimestamp": "1733692788"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xA5Cb9B5f2A5D6A9eac298Fe89a5A66Fd9711Cd69",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1736609136"
+        },
+        {
+          "accumulatedPoints": "30293033888888888888888639430",
+          "userId": "0xA8F02C6B221d01F8a6d8adBC88A5F85b8569CD8E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733822466"
+        },
+        {
+          "accumulatedPoints": "94327097222222222222222031552",
+          "userId": "0xA8F02C6B221d01F8a6d8adBC88A5F85b8569CD8E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734530550"
+        },
+        {
+          "accumulatedPoints": "15880902777777777777676140",
+          "userId": "0xA9DDBBAa691aEb72100637a06DA62442EFB8bfBa",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729985880"
+        },
+        {
+          "accumulatedPoints": "25420075694444444444443942194",
+          "userId": "0xAA67695b49F13A70711b4690A6e61Ef380088e1a",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737299064"
+        },
+        {
+          "accumulatedPoints": "10165624999999999999934940",
+          "userId": "0xABdcFD8eE0b47969758aA411593A36a1CFBB784B",
+          "pointPerSecond": "8738425925925925925925",
+          "lastTimestamp": "1729863900"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xAC11596F6B35b4dcD22975a7d9048a0f21D4a2Ed",
+          "pointPerSecond": "28935185185185185185",
+          "lastTimestamp": "1735887456"
+        },
+        {
+          "accumulatedPoints": "14783888888888888888888794272",
+          "userId": "0xAC11596F6B35b4dcD22975a7d9048a0f21D4a2Ed",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736792538"
+        },
+        {
+          "accumulatedPoints": "9920486111111111111111047620",
+          "userId": "0xACe11cFA05d568D8877dfab30669E8d18b0725d3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737113514"
+        },
+        {
+          "accumulatedPoints": "16246698263888888888887601094",
+          "userId": "0xAb0199941ae6F1995DFf1447b59771F3AbDF117B",
+          "pointPerSecond": "5960648148148148148148",
+          "lastTimestamp": "1733231898"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xAbc71633fC1136aF53Fdc947108AF4030B45431F",
+          "pointPerSecond": "86805555555555555555",
+          "lastTimestamp": "1729687038"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xB388233Fc7f3391C41392545bccf0909E5cf4b41",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730275392"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xB40E7b1cc56EE024F25e5738E358678aDbFf78cf",
+          "pointPerSecond": "202069586274437874317129",
+          "lastTimestamp": "1737290226"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xB40E7b1cc56EE024F25e5738E358678aDbFf78cf",
+          "pointPerSecond": "230077650309769313873726",
+          "lastTimestamp": "1737290118"
+        },
+        {
+          "accumulatedPoints": "15105833333333333333236656",
+          "userId": "0xB43D6A23d72f124677F305ACaFF5a6ADb828137f",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1730995692"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xB4Aec198499ec997E989De427eF6Af7d264a22Be",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729869648"
+        },
+        {
+          "accumulatedPoints": "237224425710615221001730969596",
+          "userId": "0xB5a6cfDFF33d890aB5e2bda4f9dbb6198DfA208e",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737015731"
+        },
+        {
+          "accumulatedPoints": "5493055555555555555522176",
+          "userId": "0xB6C820979ebBc0e42230B93D4490277eF9EBe3Fc",
+          "pointPerSecond": "11631944444444444444444",
+          "lastTimestamp": "1729768734"
+        },
+        {
+          "accumulatedPoints": "858333333333333333327840",
+          "userId": "0xB6D4934FE622d1637AeCeaCd8dF8FF5A06219467",
+          "pointPerSecond": "6307870370370370370370",
+          "lastTimestamp": "1729775856"
+        },
+        {
+          "accumulatedPoints": "2083333333333333333320",
+          "userId": "0xB7044B1B2741d7eEc9935e3455D18361F82F7E4E",
+          "pointPerSecond": "1157407407407407407407",
+          "lastTimestamp": "1729652838"
+        },
+        {
+          "accumulatedPoints": "304475538194444444444442407538",
+          "userId": "0xB7044B1B2741d7eEc9935e3455D18361F82F7E4E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736523216"
+        },
+        {
+          "accumulatedPoints": "135028333333333333333332469152",
+          "userId": "0xB94d48FEd4A655d3b16AFCec1C678937752E4196",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737532020"
+        },
+        {
+          "accumulatedPoints": "21856562499999999999999860118",
+          "userId": "0xB9CB516d08a492cC37F778657691Fd22F2ae6D38",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736950854"
+        },
+        {
+          "accumulatedPoints": "283134815826270466426129951668",
+          "userId": "0xBA626027DcdAE0343a9a727E00bc2d0f566Fe34C",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1739169383"
+        },
+        {
+          "accumulatedPoints": "1051771006944444444444441701334",
+          "userId": "0xBB7d7E3341Bf213b0D6745c4D83541f3c386aE83",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1738450182"
+        },
+        {
+          "accumulatedPoints": "20379216319444444444443308388",
+          "userId": "0xBa9bAc554670A11e8C38539F275F248F618DCC3E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736176044"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xC169c822940B2Cf17C5962AA41e87a3Eb26e5266",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729687566"
+        },
+        {
+          "accumulatedPoints": "1254861111111111111111072",
+          "userId": "0xC1D0BAd29d021fe2b0698ce5c171Bd80185d5d6B",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1731310446"
+        },
+        {
+          "accumulatedPoints": "41720833333333333333066320",
+          "userId": "0xC40b4c08d763e8daf1090eE4fd0ce9F2Db13B501",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730395284"
+        },
+        {
+          "accumulatedPoints": "15070486111111111111014660",
+          "userId": "0xC48C83B4b6Ee992C2105438fD3681d9f098b19D3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729917600"
+        },
+        {
+          "accumulatedPoints": "33796874999999999999783700",
+          "userId": "0xC4AABD689E5A14a7CC385d10e46c5177d7b98933",
+          "pointPerSecond": "1793981481481481481481",
+          "lastTimestamp": "1735296108"
+        },
+        {
+          "accumulatedPoints": "98597222222222222222187516",
+          "userId": "0xC55dd09E2703F02805AB190116c0BD0B431e4ee5",
+          "pointPerSecond": "6944444444444444444444",
+          "lastTimestamp": "1729818912"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xC9C9eC05cEBc9632C8b3dF7Ff1205370C7AafbeF",
+          "pointPerSecond": "29107080875775765740740",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "16255902777777777777673740",
+          "userId": "0xCF81EFc8bFf9b01069d137374173B00C88c4Fc5d",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729970478"
+        },
+        {
+          "accumulatedPoints": "11090451388888888888888817910",
+          "userId": "0xCdC663260A596cc5F8c936d4dE1290ABB67e29fC",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736621100"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xD41D9B0B1Edd8E5091a7C8283da6beb46d733262",
+          "pointPerSecond": "28935185185185185185185",
+          "lastTimestamp": "1729701552"
+        },
+        {
+          "accumulatedPoints": "579718652083333333333333114572",
+          "userId": "0xD7AE5DE2f4373b6eF31D1C18096629cBfa6fdA47",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734482076"
+        },
+        {
+          "accumulatedPoints": "763544499999999999999998934720",
+          "userId": "0xD7AE5DE2f4373b6eF31D1C18096629cBfa6fdA47",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736511216"
+        },
+        {
+          "accumulatedPoints": "10561111111111111111043520",
+          "userId": "0xD7BC0ED023e71ffc6426a2bE6B89bA4Ff9e33478",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729867824"
+        },
+        {
+          "accumulatedPoints": "46533895138888888888882612128",
+          "userId": "0xDB0132c875eA7A00c4a6283da592ae6500205396",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737935568"
+        },
+        {
+          "accumulatedPoints": "200613194444444444444443160520",
+          "userId": "0xDaA9E69E1081697f2265aAdAeA89a2becd61Ea4F",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736591946"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xE06c8E73834F8a82900fc093F8dcdA1c59bbDCA7",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729652232"
+        },
+        {
+          "accumulatedPoints": "211724112847222222222219071552",
+          "userId": "0xE1A2D40de3D4008033d3044952E10d5a14d489D6",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734537540"
+        },
+        {
+          "accumulatedPoints": "34561006944444444444223254",
+          "userId": "0xE2dbADe2d5dE40853A96a7Ff811a7651280486b3",
+          "pointPerSecond": "5792824074074074074074",
+          "lastTimestamp": "1730230998"
+        },
+        {
+          "accumulatedPoints": "856839906249999999999999901920",
+          "userId": "0xE3833Db25FFC5BAb4597C1F9Dc828EAD8F6Df556",
+          "pointPerSecond": "2739641203703703703703703",
+          "lastTimestamp": "1733917938"
+        },
+        {
+          "accumulatedPoints": "220937499999999999999720",
+          "userId": "0xE65Bc9d90619e0F98Fdb6BDa851Aaa19e054355a",
+          "pointPerSecond": "2899305555555555555555",
+          "lastTimestamp": "1730732736"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xE6B1e0460A0d1Dc4Be8A8d77b622ddF01bae8b19",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729663164"
+        },
+        {
+          "accumulatedPoints": "1256169791666666666666532378",
+          "userId": "0xE7132CF69bFcc561514dA2Dd9A5f7aF60f0E5a62",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729994982"
+        },
+        {
+          "accumulatedPoints": "21749010416666666666665274730",
+          "userId": "0xEDA45D8563B62f654D403E01fE8d7F8D56B951c3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736016978"
+        },
+        {
+          "accumulatedPoints": "21523159722222222222222084474",
+          "userId": "0xEDA45D8563B62f654D403E01fE8d7F8D56B951c3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737498282"
+        },
+        {
+          "accumulatedPoints": "1174652498548488628526285172264",
+          "userId": "0xEEA45C31B0131C41b7c8DC5A4A93FeAe475a80cA",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736940959"
+        },
+        {
+          "accumulatedPoints": "5209374999999999999966660",
+          "userId": "0xEa53ec04b8c2f5E34e890DdB5aCA821A9f92ee79",
+          "pointPerSecond": "115740740740740740740",
+          "lastTimestamp": "1729794456"
+        },
+        {
+          "accumulatedPoints": "81517708333333333333281162",
+          "userId": "0xEd873f2F30C2Bf8e99e143337f050D2722E9B36B",
+          "pointPerSecond": "347222222222222222222",
+          "lastTimestamp": "1736620572"
+        },
+        {
+          "accumulatedPoints": "531874999999999999996596",
+          "userId": "0xF184cb3a558d809BE59A7796b37083e662845382",
+          "pointPerSecond": "11574074074074074074",
+          "lastTimestamp": "1734998052"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xF531b8515B275f15Fc0Cc4f14a5FCb71FF9Cf262",
+          "pointPerSecond": "9744569243044728356481",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "19003472222222222222100600",
+          "userId": "0xF57d2955cD1Efb53a0610F822d11178d9391De71",
+          "pointPerSecond": "5931712962962962962962",
+          "lastTimestamp": "1729816536"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xF674703F604bc6f5E97bf2e773Bce4Cc60F59dA1",
+          "pointPerSecond": "11574074074074074074074",
+          "lastTimestamp": "1736788578"
+        },
+        {
+          "accumulatedPoints": "42166762847222222222219526258",
+          "userId": "0xF9ab14Db9143C92123384bdAf2eBf5f1ffe3C3Bb",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735825284"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xFB239bb8FB125B18ca6EA08AdF2656fa19593629",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729681152"
+        },
+        {
+          "accumulatedPoints": "2375649790982284075132302560160",
+          "userId": "0xFDefc04Ed449Bf48F59618E84d4cA118162cd5a3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737015599"
+        },
+        {
+          "accumulatedPoints": "19847569444444444444317420",
+          "userId": "0xFf672B72F6A14ed06d49cD728c30FdbCAa077240",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1730023620"
+        },
+        {
+          "accumulatedPoints": "651124999999999999999999333248",
+          "userId": "0xa0a320027E0BA71C91393db243412B3466AAEAcC",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737692472"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xa15eA154b4d0B3aa34105cC9087BDf22E5193552",
+          "pointPerSecond": "6365740740740740740",
+          "lastTimestamp": "1730108238"
+        },
+        {
+          "accumulatedPoints": "48128052331956253733377092",
+          "userId": "0xa1A2178Ecb69F515fD9eDc5c0624d2ce33ff7542",
+          "pointPerSecond": "272548132080306842766",
+          "lastTimestamp": "1735421340"
+        },
+        {
+          "accumulatedPoints": "17314899305555555555453040",
+          "userId": "0xa1A2178Ecb69F515fD9eDc5c0624d2ce33ff7542",
+          "pointPerSecond": "68269345217269582118",
+          "lastTimestamp": "1735421376"
+        },
+        {
+          "accumulatedPoints": "44005868055555555555555273918",
+          "userId": "0xa227B6286D8Dc365D14bb17140cCd3E5Ac798De3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737544218"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xa47Fb7E770438F01C481D6857a1ff3bcD249bafC",
+          "pointPerSecond": "1452546296296296296296296",
+          "lastTimestamp": "1733292150"
+        },
+        {
+          "accumulatedPoints": "12486006944444444444444364534",
+          "userId": "0xa5B3cfEb3B01bB43B9A6F3a7c78174ec2d957Dc6",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736842338"
+        },
+        {
+          "accumulatedPoints": "280545138888888888888547830",
+          "userId": "0xa690010dB2f2AE13809e4718277E3c83c8E002a5",
+          "pointPerSecond": "12152777777777777777777",
+          "lastTimestamp": "1730134086"
+        },
+        {
+          "accumulatedPoints": "32189236111111111111016346",
+          "userId": "0xaD06B8b173702aE6647eCF3f92e2544A9e6afcE8",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729782606"
+        },
+        {
+          "accumulatedPoints": "46149201388888888888888593534",
+          "userId": "0xaFAA188Ba59D8b7950C6B287Bb11E77759da714A",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737753696"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xab9A9c8a76edAc1F58737ffa4aEbd5852356de7f",
+          "pointPerSecond": "5787037037037037037",
+          "lastTimestamp": "1730845188"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xaf50942A6552333a69f736a00aAf7D5f57E764E1",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729779912"
+        },
+        {
+          "accumulatedPoints": "99256944444444444444323748",
+          "userId": "0xb2380715D068cEdDaA81bB048F523AF27257f63c",
+          "pointPerSecond": "6365740740740740740740",
+          "lastTimestamp": "1729819416"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xb457CfA0a855a7e1e1a5e3D6E51CD6009Ad63be0",
+          "pointPerSecond": "38913773148148148148148",
+          "lastTimestamp": "1735738440"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xb6aFfb6A1dC30a669240895203349A4f0c619aaB",
+          "pointPerSecond": "1157407407407407407407",
+          "lastTimestamp": "1732436718"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xb7d8493597453e6Ac5E7a285F071bb8379b3052E",
+          "pointPerSecond": "5787037037037037037",
+          "lastTimestamp": "1732654200"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xb92c55DB9f5EdD46423980Fbe7fDB9948fAF5b57",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1730804898"
+        },
+        {
+          "accumulatedPoints": "553606951061305836023631628656",
+          "userId": "0xbDc61836abdf0542Fe4A0B8bf30Eaed77953684b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736740271"
+        },
+        {
+          "accumulatedPoints": "9482638888888888888828200",
+          "userId": "0xbDc61836abdf0542Fe4A0B8bf30Eaed77953684b",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729742880"
+        },
+        {
+          "accumulatedPoints": "39618055555555555555302",
+          "userId": "0xbDc61836abdf0542Fe4A0B8bf30Eaed77953684b",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1733134500"
+        },
+        {
+          "accumulatedPoints": "44472777777777777777777493152",
+          "userId": "0xbDc61836abdf0542Fe4A0B8bf30Eaed77953684b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736740259"
+        },
+        {
+          "accumulatedPoints": "15676388888888888888788560",
+          "userId": "0xbFc540FE2E9710Ed9F45E8F4efC2089152CC6360",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729825008"
+        },
+        {
+          "accumulatedPoints": "32303819444444444444349342",
+          "userId": "0xbcaA201b9C512C1471B55871E3db7d4489c3a2c6",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729783086"
+        },
+        {
+          "accumulatedPoints": "25623199305555555555555292524",
+          "userId": "0xc10DfbC7829AFA006cfb381fFd15A19274873368",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734238380"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xc1D9c776Ef4BA56026bB47F16e36C6A4bdAB7d9E",
+          "pointPerSecond": "11574074074074074074074",
+          "lastTimestamp": "1729654206"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xc2FBc4477aa0EaE71eD2005BbF80D08C7A9d22Ea",
+          "pointPerSecond": "578703703703703703",
+          "lastTimestamp": "1733084826"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xc471B2791Cbc9F28a3f4dEaB119FBA766139e4B2",
+          "pointPerSecond": "32986111111111111111111",
+          "lastTimestamp": "1733660580"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xc4BF06C9063530024782d8425C66f4Bd540fc655",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1729873656"
+        },
+        {
+          "accumulatedPoints": "63618717708333333333331514574",
+          "userId": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736843130"
+        },
+        {
+          "accumulatedPoints": "88450393872741062276550774",
+          "userId": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1732308720"
+        },
+        {
+          "accumulatedPoints": "6760744785987867296829249533384640",
+          "userId": "0xc540dd400F18CAcB90F5d7dEcDEd17dBf8C724f5",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737532055"
+        },
+        {
+          "accumulatedPoints": "1388888888888888888880",
+          "userId": "0xc6943Dd138901bD219d2e7B4bFCdD6668a19FAeB",
+          "pointPerSecond": "231481481481481481481",
+          "lastTimestamp": "1729715058"
+        },
+        {
+          "accumulatedPoints": "33947708333333333333333116068",
+          "userId": "0xcAdc11f5a2576F46F3A9D87a8e39F9c72f5F8F37",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737386514"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xcB4a1B9EE1148E3c008cb429EB980c2C18Bf19a5",
+          "pointPerSecond": "173611111111111111111",
+          "lastTimestamp": "1735467444"
+        },
+        {
+          "accumulatedPoints": "43800369097222222222219129020",
+          "userId": "0xcD0D967449430CaaaBDa422aF22F64254c3F1168",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737285960"
+        },
+        {
+          "accumulatedPoints": "25650347222222222222222058060",
+          "userId": "0xcE331D9e01aBEe36D97873b0831460a33c9504a7",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734545460"
+        },
+        {
+          "accumulatedPoints": "8760277777777777777777721712",
+          "userId": "0xcE331D9e01aBEe36D97873b0831460a33c9504a7",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734545448"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xd1d1F716ead02c264D6dC574840C611e0fd6DD45",
+          "pointPerSecond": "11574074074074074074074",
+          "lastTimestamp": "1733396502"
+        },
+        {
+          "accumulatedPoints": "14316423611111111111019486",
+          "userId": "0xd2218ADe902aF78A1735CA8718e391F28F1aFd43",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1731758514"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xd32820e093Df01D8C2643b6a5B187B8c2b8644bC",
+          "pointPerSecond": "5792824074074074074074",
+          "lastTimestamp": "1730000136"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xd35feE0047e11A317cbbcb3eC61B16de5a711deC",
+          "pointPerSecond": "578703703703703703703",
+          "lastTimestamp": "1729697364"
+        },
+        {
+          "accumulatedPoints": "702976799485075490510055835530",
+          "userId": "0xd9dA5ef554e0AF872c870005Ae1aF32F330c7b29",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1733846892"
+        },
+        {
+          "accumulatedPoints": "18270347222222222222222105292",
+          "userId": "0xdCcecA99288EE57F9711F3BFF87017dB5E1F40f8",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1735194300"
+        },
+        {
+          "accumulatedPoints": "5555555555555555520",
+          "userId": "0xdE0C6Ed6dCDdb818c71AF71041cAF60C3d2cbbe2",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729730610"
+        },
+        {
+          "accumulatedPoints": "33170138888888888888848554",
+          "userId": "0xdE4Bb35af19b27927f758559000cecBA74C8d2B9",
+          "pointPerSecond": "5844907407407407407407",
+          "lastTimestamp": "1729773408"
+        },
+        {
+          "accumulatedPoints": "24305555555555555555400",
+          "userId": "0xdF7Eca6aF127C4F562B800B38Fbe8fFEfc7df5f0",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1732557336"
+        },
+        {
+          "accumulatedPoints": "19463749999999999999998754320",
+          "userId": "0xdF7Eca6aF127C4F562B800B38Fbe8fFEfc7df5f0",
+          "pointPerSecond": "10416666666666666666666",
+          "lastTimestamp": "1736588046"
+        },
+        {
+          "accumulatedPoints": "453979166666666666666649480",
+          "userId": "0xdaBE322271E9722ff4844EFb947f16E6ba8C72C5",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729982340"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xdac74eD3E6EA4570ab808423AB2B94Fa1ee9c562",
+          "pointPerSecond": "57870370370370370370",
+          "lastTimestamp": "1729729416"
+        },
+        {
+          "accumulatedPoints": "151444444444444444391136",
+          "userId": "0xdc18dAB67705094e0715E5B89F76c3Cd12Bd7F26",
+          "pointPerSecond": "2314814814814814814",
+          "lastTimestamp": "1731043404"
+        },
+        {
+          "accumulatedPoints": "1147864583333333333331937530",
+          "userId": "0xe1129C6694e2c60517718dE18BA3358f0299ebAC",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1736990286"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xe1928cc34cA073E974C952955907111Eff31C9e9",
+          "pointPerSecond": "30237895801157665162037",
+          "lastTimestamp": "1730136839"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xe316f408b7A51d8382058b9D0Ee4119ea3B85ada",
+          "pointPerSecond": "69444444444444444444444",
+          "lastTimestamp": "1736096010"
+        },
+        {
+          "accumulatedPoints": "540128819444444444443612800",
+          "userId": "0xe59Ba48dC0D6EBF662c3Ff3c5b2Eb757D76Cfd9C",
+          "pointPerSecond": "6250000000000000000000",
+          "lastTimestamp": "1731052506"
+        },
+        {
+          "accumulatedPoints": "40861805555555555294040",
+          "userId": "0xeD5671985668909BE71dFdD6dd3ABd6B03C4C551",
+          "pointPerSecond": "5844965277777777777777",
+          "lastTimestamp": "1731685860"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xf1d9b2e4c24ee8e7037f75F5aA976dc782FD5fDb",
+          "pointPerSecond": "5787037037037037037037",
+          "lastTimestamp": "1730391108"
+        },
+        {
+          "accumulatedPoints": "13888888888888888888872",
+          "userId": "0xf2C72b367b3538677b92DED1b1321A72054cc75F",
+          "pointPerSecond": "1157407407407407407407",
+          "lastTimestamp": "1730799426"
+        },
+        {
+          "accumulatedPoints": "0",
+          "userId": "0xf34ede05f15D0EBd6270a923fb1018E48D6ba94F",
+          "pointPerSecond": "578703703703703703703703",
+          "lastTimestamp": "1734106404"
+        },
+        {
+          "accumulatedPoints": "34920170138888888888888352840",
+          "userId": "0xf7E55b99c47a68cD269AB9541281c968b7305D2E",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1734133080"
+        },
+        {
+          "accumulatedPoints": "77167102083333333333331785786",
+          "userId": "0xf9b9f5dc37519f19Bda73796e89aC0e5b82c1bB2",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1737408168"
+        },
+        {
+          "accumulatedPoints": "15122916666666666666569880",
+          "userId": "0xfBD6803A7a0FE2b8c2a4E3790095B394FdF95b5A",
+          "pointPerSecond": "5902777777777777777777",
+          "lastTimestamp": "1729792152"
+        },
+        {
+          "accumulatedPoints": "2285729166666666666666257064",
+          "userId": "0xfEB5e8e0Ea252e8fF494E2d9C1beb640a8D7428A",
+          "pointPerSecond": "6944444444444444444444",
+          "lastTimestamp": "1736114214"
+        }
+      ],
+      "totalCount": 324
+    },
+    "userStakings": {
+      "items": [
+        {
+          "accumulatedPoints": "11544415661592031511025000000",
+          "userId": "0x1388008810B3458a9aFAB46a678b1ed3992fCc70",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "1660343876713600564590110080500",
+          "userId": "0x4B207c3Fc4FfC9f88C922aF3FD2a7D655D06b7EA",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "292647591974851671937500000",
+          "userId": "0x6aC69296DE99236dA854603CB3EbFB84c28AF55c",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "146290164041666666666665778400",
+          "userId": "0x8377Fd48c0519c92CB10dbE678C5f5087151968D",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221707"
+        },
+        {
+          "accumulatedPoints": "589321932305038578088239486960",
+          "userId": "0x8C2755Cdcf38086d3001c39d5A1b876e9AD9bc75",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "17933281645342375951138120690836",
+          "userId": "0xA083345EB51A1Eaa908770ACEC8b005279637114",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "86353908814234525785152800644",
+          "userId": "0xB5a6cfDFF33d890aB5e2bda4f9dbb6198DfA208e",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "116246578890114719081674819440",
+          "userId": "0xC9C9eC05cEBc9632C8b3dF7Ff1205370C7AafbeF",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "416362488207050618897154238176",
+          "userId": "0xEEA45C31B0131C41b7c8DC5A4A93FeAe475a80cA",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "33043795324887701677913645076",
+          "userId": "0xF531b8515B275f15Fc0Cc4f14a5FCb71FF9Cf262",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "1334775435079172595331324534080",
+          "userId": "0xFDefc04Ed449Bf48F59618E84d4cA118162cd5a3",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        },
+        {
+          "accumulatedPoints": "183811258764703301828378184036",
+          "userId": "0xbDc61836abdf0542Fe4A0B8bf30Eaed77953684b",
+          "pointPerSecond": "0",
+          "lastTimestamp": "1729221815"
+        }
+      ],
+      "totalCount": 12
+    }
+  }
+}
