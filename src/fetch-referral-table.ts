@@ -8,6 +8,7 @@ const response = await fetch(referralUrl, {
   },
 });
 const data = await response.json();
+console.log(data.length);
 
 fs.writeFileSync(
   './result/referral-table.json',

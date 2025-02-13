@@ -31,13 +31,45 @@ for (const user of data.userPreStakings.items) {
   //
 }
 
+// Handle referral bonus, if user has parent referral, add 5% of the points
+// for parent, add 5% points of all childrens points
+
+const referralTable = JSON.parse(fs.readFileSync('./result/referral-table.json', 'utf8'));
+
+const referralBonusMap: Record<string, number> = {};
+Object.entries(userPointMap).forEach(([address, points]) => {
+  const referral = referralTable.find((referralData: any) => referralData.address === address.toLowerCase());
+  if (!referral) {
+    return;
+  }
+  if (!referral.parentReferralCode) {
+    return;
+  }
+  if (!referralBonusMap[address]) {
+    referralBonusMap[address] = 0;
+  }
+  referralBonusMap[address] += points * 0.05;
+  console.log('to ', address, points * 0.05);
+  const parentReferral = referralTable.find((referralData: any) => referralData.referralCode === referral.parentReferralCode);
+  if (!parentReferral) {
+    return;
+  }
+  if (!referralBonusMap[parentReferral.address]) {
+    referralBonusMap[parentReferral.address] = 0;
+  }
+  referralBonusMap[parentReferral.address] += points * 0.05;
+  console.log('to ', parentReferral.address, points * 0.05);
+});
+
 const arrfyAndSorted = Object.entries(userPointMap)
   .map(([address, points]) => ({
     address,
     stakingPoint: points,
+    referralBonus: referralBonusMap[address.toLowerCase()] || 0,
   }))
   .sort((a, b) => b.stakingPoint - a.stakingPoint);
 
 console.log('totalPoints', totalPoints);
+// console.log(referralBonusMap);
 
-// fs.writeFileSync('./result/prestaking-result.json', JSON.stringify(arrfyAndSorted, null, 2));
+fs.writeFileSync('./result/prestaking-result.json', JSON.stringify(arrfyAndSorted, null, 2));
