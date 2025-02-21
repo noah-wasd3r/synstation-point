@@ -37,7 +37,7 @@ async function main() {
 
         console.log('wait till next epoch', pastEpochEndTimestamp + 86400 - now, 'seconds left to end of epoch');
       } else {
-        await distributeAcsPointForExactEpoch(pastEpoch, currentPointInfo.data.getDefiPointInfoByDefiId.dailyPoints);
+        await distributeAcsPointForExactEpoch(pastEpoch, Math.floor(currentPointInfo.data.getDefiPointInfoByDefiId.dailyPoints * 0.85));
       }
     } else {
       console.log('cannot distribute wait: ', pastEpochEndTimestamp - now, 'seconds left to end of epoch');

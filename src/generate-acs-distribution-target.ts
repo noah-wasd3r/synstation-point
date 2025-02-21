@@ -74,6 +74,14 @@ export async function generateAcsDistributionTarget(epoch: number) {
       [vaultAddress: string]: number;
     };
   } = {};
+  const accumulatedSharesMap: {
+    [user: string]: {
+      [vaultAddress: string]: {
+        updatedAt: number;
+        accumulatedShares: number;
+      };
+    };
+  } = {};
 
   for (const event of concatedEvents) {
     // check timestamp
@@ -88,21 +96,24 @@ export async function generateAcsDistributionTarget(epoch: number) {
       balanceMap[receiver] = balanceMap[receiver] || {};
       balanceMap[receiver][vaultAddress] = balanceMap[receiver][vaultAddress] || 0;
       balanceMap[receiver][vaultAddress] += shares;
+
+      accumulatedSharesMap[receiver] = accumulatedSharesMap[receiver] || {};
+      accumulatedSharesMap[receiver][vaultAddress] = {
+        updatedAt: fromTimestamp,
+        accumulatedShares: balanceMap[receiver][vaultAddress],
+      };
     } else if (type === 'withdraw') {
       balanceMap[owner] = balanceMap[owner] || {};
       balanceMap[owner][vaultAddress] = balanceMap[owner][vaultAddress] || 0;
       balanceMap[owner][vaultAddress] -= shares;
+
+      accumulatedSharesMap[owner] = accumulatedSharesMap[owner] || {};
+      accumulatedSharesMap[owner][vaultAddress] = {
+        updatedAt: fromTimestamp,
+        accumulatedShares: balanceMap[owner][vaultAddress],
+      };
     }
   }
-
-  const accumulatedSharesMap: {
-    [user: string]: {
-      [vaultAddress: string]: {
-        updatedAt: number;
-        accumulatedShares: number;
-      };
-    };
-  } = {};
 
   for (const event of concatedEvents) {
     if (event.timestamp <= fromTimestamp) {
