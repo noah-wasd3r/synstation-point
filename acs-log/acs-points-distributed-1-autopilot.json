@@ -1,0 +1,260 @@
+[
+  {
+    "userAddress": "0xd2816CBd395C9003341B77e686d65A3bA6375d4B",
+    "defiId": 16,
+    "acsAmount": 45797,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x474017bFc7a692782C41Dd01Fe437823c3aA4a85",
+    "defiId": 16,
+    "acsAmount": 5782,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xDd31167C7b0f999593F224433750cF5630F845B5",
+    "defiId": 16,
+    "acsAmount": 5186,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x894f1fdf83c322A6b35aFDe5F2942eBeb670ed30",
+    "defiId": 16,
+    "acsAmount": 5126,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x3a1864C8cC000a00f2A4FD1992Db24C83d863173",
+    "defiId": 16,
+    "acsAmount": 1933,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xc20E3f3063a8d6C99B891ee7bCa749FE660584Ad",
+    "defiId": 16,
+    "acsAmount": 1487,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x2581dd41b482448129f140c75e163bFa569dc534",
+    "defiId": 16,
+    "acsAmount": 808,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xDa86c63d30A5d7ab07F4C2275d3063d2574Cea6d",
+    "defiId": 16,
+    "acsAmount": 496,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x1be01F360Be59591a0Cc2cf149F676CB40CD35B6",
+    "defiId": 16,
+    "acsAmount": 407,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x5c3d69f6D95215E9F01aEf548a592d258C31C52E",
+    "defiId": 16,
+    "acsAmount": 287,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xb0C6d7085fA8cCC6c174841495eb700130eA2e97",
+    "defiId": 16,
+    "acsAmount": 231,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x2059b5e2754C780410255e415656ba2be546a469",
+    "defiId": 16,
+    "acsAmount": 127,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xe981A3Ba9121a98CA8Cc14000b345dD070bFDE21",
+    "defiId": 16,
+    "acsAmount": 123,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x4797A94741B2512c3236D61ca0195638C44dEB4c",
+    "defiId": 16,
+    "acsAmount": 72,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x96E38316343078542214a7a685D0802f63ca756B",
+    "defiId": 16,
+    "acsAmount": 54,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xeb891C1D9644304f69cec0050b2C9b4559521a15",
+    "defiId": 16,
+    "acsAmount": 44,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x99044Fa0503cBb412C3501Ca2281C52F4005defA",
+    "defiId": 16,
+    "acsAmount": 22,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xF6BbE1f1Ac38a1019A3d15fbE555627fE6578AB2",
+    "defiId": 16,
+    "acsAmount": 15,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xEDA45D8563B62f654D403E01fE8d7F8D56B951c3",
+    "defiId": 16,
+    "acsAmount": 15,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x70a720D38EdF86324986c187259ef6A7750E3Bb9",
+    "defiId": 16,
+    "acsAmount": 14,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x5bFe4643E7A4dAFCa7184bAe743F6DA78ef1Cc08",
+    "defiId": 16,
+    "acsAmount": 13,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x90A64972B596c39d9587702cfE80081eA850935f",
+    "defiId": 16,
+    "acsAmount": 12,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x44548f0f23BbdFdFf6Fa917A69c7692702736AE7",
+    "defiId": 16,
+    "acsAmount": 12,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x5e7DCA68EA52258210cC2CB13e32636318A8FB52",
+    "defiId": 16,
+    "acsAmount": 11,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x534124517F0EDFe7D839EE195377277AD37C230f",
+    "defiId": 16,
+    "acsAmount": 11,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x7A2012bF85da713e4B04c720b36be0614458B5B9",
+    "defiId": 16,
+    "acsAmount": 10,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x4a5A7bd0CA658Fa6F48f48659326f31AAFC8e968",
+    "defiId": 16,
+    "acsAmount": 8,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xC3f63e948248d863aAB5F7834133a90f8D54D000",
+    "defiId": 16,
+    "acsAmount": 8,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x8dC1e4C18bB7B0F90e520Aa91186b817Bf52633D",
+    "defiId": 16,
+    "acsAmount": 6,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xE80574f67a9343C2D8777D736C2Eb21817e5b644",
+    "defiId": 16,
+    "acsAmount": 5,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x0DC99550aCC01f97dB95ACA0B1A95b10b6c36C99",
+    "defiId": 16,
+    "acsAmount": 4,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xa7D8FB1BaD72FAB736B396844751158102b988b2",
+    "defiId": 16,
+    "acsAmount": 4,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x6DBf2Ab419505A7bA84af747744d25ddcF0F3791",
+    "defiId": 16,
+    "acsAmount": 4,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xFf3fA820e80ee4Bfd71d209e9dDFe100B5D6A8A6",
+    "defiId": 16,
+    "acsAmount": 4,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x24eE0c14712580365AFeFF8301C3631e7301e79d",
+    "defiId": 16,
+    "acsAmount": 3,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xCe69F1a6fe78d76Ced76547d9cb6D660dC038650",
+    "defiId": 16,
+    "acsAmount": 2,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x9fBee4154BA323DB077d81F7A8095e909Eb684E7",
+    "defiId": 16,
+    "acsAmount": 2,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xE163Da33C035A183a878679E8DB856DFB7103Df3",
+    "defiId": 16,
+    "acsAmount": 2,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xD7eb47125f2955Be2f2CE07c7EA947ae192befc1",
+    "defiId": 16,
+    "acsAmount": 1,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x14d873A34583e3B0dE7922d7Af05bbc82095A50a",
+    "defiId": 16,
+    "acsAmount": 1,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x1705008f8658155cB07E0F15BCAfDC889A431B7a",
+    "defiId": 16,
+    "acsAmount": 1,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0xbf967C5686906cED18B58dD96B75CFb5c5A19F65",
+    "defiId": 16,
+    "acsAmount": 1,
+    "description": "autopilot-1"
+  },
+  {
+    "userAddress": "0x95319B4d09a6a3172B20f40A88e3308F66c43eca",
+    "defiId": 16,
+    "acsAmount": 1,
+    "description": "autopilot-1"
+  }
+]
